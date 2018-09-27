@@ -7,6 +7,7 @@
 
 <script>
 import '@/assets/styles/main.css'
+import TodoList from './components/TodoList'
 import HelloWorld from './components/HelloWorld'
 
 export default {
